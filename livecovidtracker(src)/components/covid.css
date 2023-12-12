@@ -1,0 +1,119 @@
+.mainbody {
+    background-color: rgb(68, 66, 66);
+    padding: 20px;
+    text-align: center;
+    min-height: 100vh;
+    align-items: center;
+   
+    
+}
+
+h1, p, h2 {
+    color: black;
+    text-align: center;
+}
+
+ul{
+    list-style-type:none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card_main1 {
+    height: 250px;
+    width: 500px;
+    margin: 25px;
+    align-items: center;
+    background-color: rgb(116, 116, 209);
+    border-radius: 20px;
+
+}
+.card_main1:hover {
+    height: 280px;
+    width: 550px;
+}
+.card_main2 {
+    height: 250px;
+    width: 500px;
+    margin: 25px;
+    align-items: center;
+    background-color: rgb(238, 98, 10);
+    border-radius: 20px;
+
+}
+.card_main2:hover {
+    height: 280px;
+    width: 550px;
+}
+.card_main3 {
+    height: 250px;
+    width: 500px;
+    margin: 25px;
+    align-items: center;
+    background-color: rgb(9, 173, 107);
+    border-radius: 20px;
+
+}
+.card_main3:hover {
+    height: 280px;
+    width: 550px;
+}
+.card_main4 {
+    height: 250px;
+    width: 500px;
+    margin: 25px;
+    align-items: center;
+    background-color: rgb(227, 53, 53);
+    border-radius: 20px;
+
+}
+.card_main4:hover {
+    height: 280px;
+    width: 550px;
+}
+.card_main5 {
+    height: 250px;
+    width: 500px;
+    margin: 25px;
+    align-items: center;
+    background-color: rgb(10, 193, 186);
+    border-radius: 20px;
+
+}
+.card_main5:hover {
+    height: 280px;
+    width: 550px;
+}
+.card_main6 {
+    height: 250px;
+    width: 500px;
+    margin: 25px;
+    align-items: center;
+    background-color: rgb(200, 206, 30);
+    border-radius: 20px;
+
+}
+.card_main6:hover {
+    height: 280px;
+    width: 550px;
+}
+.card_inner{
+    text-align: center;
+    
+}
+.card_name{
+    
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card_name span {
+    font-size: 15px;
+}
+
+.card_total {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0px 7px 5px black;
+}
