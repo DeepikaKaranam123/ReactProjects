@@ -1,0 +1,6 @@
+1. Create a react app from scratch
+2. Show a heading that says Hello Everyone, Good Morning, if the time is between 1 to 11AM
+3. Good Afternoon, if 12PM to 7PM
+4. Good Night, if 7PM till Midnight
+5. Apply CSS to it, then dynamically change the color of greeting part only using Inline CSS styling.
+	Ex. Green, Orange, Black
